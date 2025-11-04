@@ -95,7 +95,7 @@ My goal is to bridge the gap between **development and operations**, making deli
 
 ## 🌐 Connect With Me  
 
-[💼 LinkedIn](www.linkedin.com/in/alina-mustafa) | [📧 Email](alina113313@gmail.com) 
+[💼 LinkedIn](https://www.linkedin.com/in/alina-mustafa) | [📧 Email](mailto:alina113313@gmail.com) 
 
 ---
 
