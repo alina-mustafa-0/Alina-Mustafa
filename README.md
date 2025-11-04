@@ -88,14 +88,14 @@ My goal is to bridge the gap between **development and operations**, making deli
 
 ## 📈 GitHub Stats  
 
-![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinamustafa&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinamustafa&layout=compact&theme=radical)
+![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alina-mustafa-0&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alina-mustafa-0&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me  
 
-[💼 LinkedIn](#) | [📧 Email](mailto:your.email@example.com) | [🧑‍💻 Portfolio](#)
+[💼 LinkedIn](www.linkedin.com/in/alina-mustafa) | [📧 Email](alina113313gmail.com) 
 
 ---
 
